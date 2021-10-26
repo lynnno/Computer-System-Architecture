@@ -1,2 +1,2 @@
 # Computer-System-Architecture
-homework
+Задания для самостоятельного выполнения по АВС
