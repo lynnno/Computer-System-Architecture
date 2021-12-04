@@ -1,0 +1,3 @@
+Car: TankSize = 60.0, Expenditure = 8.0, MaxSpeed = 252.0, Distance = 750.0
+Bus: TankSize = 512.0, Expenditure = 18.9, Capacity = 71.0, Distance = 2708.99 
+Car: TankSize = 55.0, Expenditure = 8.9, MaxSpeed = 239.0, Distance = 617.97 

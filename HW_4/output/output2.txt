@@ -1,0 +1,4 @@
+Bus: TankSize = 600.0, Expenditure = 13.6, Capacity = 50.0, Distance = 4411.76 
+Bus: TankSize = 598.0, Expenditure = 11.5, Capacity = 76.0, Distance = 5200.0
+Bus: TankSize = 564.0, Expenditure = 20.7, Capacity = 68.0, Distance = 2724.63 
+Bus: TankSize = 675.0, Expenditure = 16.7, Capacity = 86.0, Distance = 4041.91 
