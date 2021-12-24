@@ -1,0 +1,8 @@
+Bus: fuel tank capacity = 300, fuel consumption per 100 km = 7.0, passenger intake = 100. Maximum distance = 4285.714;
+
+Bus: fuel tank capacity = 350, fuel consumption per 100 km = 6.0, passenger intake = 40. Maximum distance = 5833.333;
+
+Car: fuel tank capacity = 200, fuel consumption per 100 km = 4.0, max speed = 133.0. Maximum distance = 5000.0;
+
+Bus: fuel tank capacity = 298, fuel consumption per 100 km = 8.0, passenger intake = 300. Maximum distance = 3725.0;
+
